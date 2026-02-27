@@ -13,3 +13,7 @@ The trained model is deployed using Streamlit.
 
 pip install -r requirements.txt
 streamlit run app.py
+
+##Live Demo
+
+https://imdb-moviereview-sentiment-analysis.streamlit.app/
